@@ -1,0 +1,7 @@
+﻿  main.cpp
+c:\users\story\documents\visual studio 2017\projects\cardgame\cardgame\main.cpp(162): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\story\documents\visual studio 2017\projects\cardgame\cardgame\main.cpp(269): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\story\documents\visual studio 2017\projects\cardgame\cardgame\main.cpp(332): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\story\documents\visual studio 2017\projects\cardgame\cardgame\main.cpp(355): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  CardGame.vcxproj -> C:\Users\Story\Documents\Visual Studio 2017\Projects\CardGame\Debug\CardGame.exe
+  CardGame.vcxproj -> C:\Users\Story\Documents\Visual Studio 2017\Projects\CardGame\Debug\CardGame.pdb (Partial PDB)
